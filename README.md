@@ -102,7 +102,7 @@ Run the same checks used by CI:
 npm run check:links
 npx playwright install chromium
 npm run test:e2e
-npm audit --omit=dev</code></pre>
+npm audit</code></pre>
 
 The demo uses no application dependencies at runtime. Development tools are listed in <code>package.json</code> and pinned by <code>package-lock.json</code>.
 
