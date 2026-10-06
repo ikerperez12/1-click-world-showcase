@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#17373a"/>
+  <path d="M37 50h566v320H37Z" fill="#d8e4da" rx="8"/>
+  <path d="M66 129H574M66 210H574M66 291H574M193 70v280M320 70v280M447 70v280" fill="none" stroke="#b9cec1" stroke-width="2" stroke-dasharray="4 7"/>
+  <path d="M112 130 155 91l57 8 32 39-16 27-43 7-15 38-29-8-18-34-20-7ZM209 224l38-10 28 26-13 43-24 45-23-18 3-47-20-21ZM322 131l33-39 71 3 24 27 49 4 28 34-38 19-34-9-31 28-43-12-29 10-32-23-26-6ZM351 226l33-16 43 25 3 39-32 39-23-19-5-39Z" fill="#91b39a" stroke="#72977f" stroke-width="2"/>
+  <path d="M176 139c44 6 67 32 100 52 34 20 49 28 77 21 44-12 60-29 94-24 27 4 44 18 70 16" fill="none" stroke="#c64a34" stroke-width="3" stroke-dasharray="7 9"/>
+  <circle cx="176" cy="139" r="10" fill="#c64a34" stroke="#fffdf5" stroke-width="4"/>
+  <circle cx="517" cy="204" r="11" fill="#193d38" stroke="#fffdf5" stroke-width="4"/>
+  <circle cx="352" cy="279" r="48" fill="#dd896c" opacity=".16"/>
+  <circle cx="352" cy="279" r="30" fill="#dd896c" opacity=".18"/>
+  <circle cx="352" cy="279" r="9" fill="#dd684e"/>
+  <rect x="68" y="76" width="112" height="21" rx="3" fill="#fffdf5"/>
+  <text x="81" y="91" fill="#35584e" font-family="monospace" font-size="10" letter-spacing="1">YOUR HUNCH</text>
+  <rect x="429" y="322" width="144" height="25" rx="3" fill="#fffdf5"/>
+  <text x="443" y="339" fill="#35584e" font-family="monospace" font-size="10" letter-spacing="1">FICTIONAL CROWD</text>
+</svg>

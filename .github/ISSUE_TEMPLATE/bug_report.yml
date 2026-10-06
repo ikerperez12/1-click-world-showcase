@@ -1,0 +1,28 @@
+name: Showcase or demo bug
+description: Report a problem in this public gallery or offline demo.
+title: "[Showcase bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please report only issues with this gallery or its offline demo. Do not include private service details or personal data."
+  - type: dropdown
+    id: language
+    attributes:
+      label: Interface language
+      options:
+        - English
+        - Spanish
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the gallery or demo behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
