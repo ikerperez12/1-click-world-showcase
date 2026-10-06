@@ -1,10 +1,11 @@
 import { expect, test } from "@playwright/test";
 
 test("the local demo works in English and Spanish without off-site requests", async ({ page, baseURL }) => {
+  const context = page.context();
   const allowedOrigin = new URL(baseURL!).origin;
   const offSiteRequests: string[] = [];
 
-  await page.route("**/*", async (route) => {
+  await context.route("**/*", async (route) => {
     const requestUrl = new URL(route.request().url());
     if (requestUrl.origin === allowedOrigin || requestUrl.protocol === "data:") {
       await route.continue();
@@ -14,7 +15,7 @@ test("the local demo works in English and Spanish without off-site requests", as
     await route.abort();
   });
 
-  await page.addInitScript((origin) => {
+  await context.addInitScript((origin) => {
     const allowed = new Set([origin]);
     const report = (rawUrl: string) => {
       const target = new URL(rawUrl, window.location.href);
