@@ -24,15 +24,25 @@ Todas las imágenes de esta galería son ilustraciones originales creadas para e
 
 ![Secuencia de la demo offline: coloca un pin y descubre un lugar imaginado](public/gallery/gameplay.gif)
 
-La experiencia en vivo ofrece varios ritmos para una misma idea:
+## Diario y modos de juego
 
-- **Diario** — un momento compartido de intuición geográfica.
-- **Sprint** — respuestas rápidas y ritmo ágil.
-- **Supervivencia** — sigue mientras tus instintos te acompañen.
-- **Quiz de banderas** — reconoce un país por sus colores.
-- **Liga semanal, pasaporte y logros** — una forma amistosa de recordar los lugares que has explorado.
+| Diario | Sprint | Supervivencia | Quiz de banderas |
+| --- | --- | --- | --- |
+| Un momento compartido de intuición geográfica. | Respuestas rápidas y ritmo ágil. | Sigue mientras tus instintos te acompañen. | Reconoce un país por sus colores. |
 
-Los modos y las tarjetas de progreso describen el producto; no están implementados en esta demo de referencia.
+Estos modos describen el producto en vivo. Son avances de galería y no están implementados en esta demo de referencia.
+
+## Por qué es divertido
+
+Cada ronda es una pequeña apuesta por tu intuición: detecta una pista, elige un lugar y compara la revelación con tu primera impresión y una vista ficticia del grupo.
+
+## Comunidad y liga semanal
+
+El juego en vivo convierte las respuestas individuales en un ritmo semanal amistoso. El showcase presenta esa idea con nombres, puestos y valores inventados; no contiene registros de jugadores ni la implementación del ranking.
+
+## Pasaporte y progreso
+
+Las rachas, los logros y los hitos con estilo de pasaporte convierten cada sesión en un viaje. La galería usa únicamente un perfil ficticio y progreso sintético.
 
 ## Demo offline segura
 

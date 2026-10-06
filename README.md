@@ -24,15 +24,25 @@ Every image in this gallery is an original illustration made for this repository
 
 ![Offline demo sequence: place a pin, reveal an imagined place](public/gallery/gameplay.gif)
 
-The live experience brings a handful of different rhythms to the same idea:
+## Daily & Game Modes
 
-- **Daily** — a shared moment of geographic intuition.
-- **Sprint** — quick guesses with a faster pace.
-- **Survival** — keep going while your instincts hold.
-- **Flag quiz** — recognize a country from its colors.
-- **Weekly league, passport and achievements** — a friendly way to remember the places you have explored.
+| Daily | Sprint | Survival | Flag quiz |
+| --- | --- | --- | --- |
+| A shared moment of geographic intuition. | Quick guesses with a faster pace. | Keep going while your instincts hold. | Recognize a country from its colors. |
 
-The modes and progress cards above describe the product. They are not implemented in this reference demo.
+These modes describe the live product. They are gallery previews and are not implemented in this reference demo.
+
+## Why It Is Fun
+
+Every round is a small wager on your own intuition: notice a clue, commit to one place, then compare the reveal with your first instinct and a fictional crowd preview.
+
+## Community & Weekly League
+
+The live game turns individual guesses into a friendly weekly rhythm. The showcase presents that idea with invented names, ranks and values; it contains no player records or ranking implementation.
+
+## Passport & Progress
+
+Streaks, achievements and passport-style milestones give each session a sense of journey. The gallery uses a fictional profile and synthetic progress only.
 
 ## Safe Offline Demo
 
