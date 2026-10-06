@@ -99,6 +99,7 @@ Open the local address printed by Vite. No <code>.env</code> file, API token or 
 Run the same checks used by CI:
 
 <pre><code>npm run check
+npm run check:links
 npx playwright install chromium
 npm run test:e2e
 npm audit --omit=dev</code></pre>

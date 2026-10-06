@@ -99,6 +99,7 @@ Abre la dirección local que muestra Vite. No necesitas un archivo <code>.env</c
 Ejecuta las mismas comprobaciones que usa CI:
 
 <pre><code>npm run check
+npm run check:links
 npx playwright install chromium
 npm run test:e2e
 npm audit --omit=dev</code></pre>
