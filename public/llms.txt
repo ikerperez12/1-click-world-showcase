@@ -1,0 +1,21 @@
+# 1 Click World
+
+> A daily geography intuition game. See a place, drop one pin, and discover how close your instinct gets.
+
+## Project
+
+This repository is a public product gallery and limited clean-room reference implementation. Its small offline demo uses synthetic scenes and fixed display outcomes. It is not the production source release and does not connect to the live game.
+
+## Experience
+
+- Daily geography rounds and several ways to play
+- A visual place reveal after each guess
+- Fictional crowd, league, passport, and progress previews
+- A responsive bilingual product gallery
+
+## Repository
+
+- [README](https://github.com/ikerperez12/1-click-world-showcase#readme)
+- [Public content policy](https://github.com/ikerperez12/1-click-world-showcase/blob/main/docs/PUBLIC_CONTENT_POLICY.md)
+- [Engineering overview](https://github.com/ikerperez12/1-click-world-showcase/blob/main/docs/ENGINEERING_OVERVIEW.md)
+- [License and restricted-use notice](https://github.com/ikerperez12/1-click-world-showcase/blob/main/LICENSE.md)
