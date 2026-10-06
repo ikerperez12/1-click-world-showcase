@@ -2,6 +2,7 @@
   <h1>1 Click World</h1>
   <p><strong>See a place. Drop one pin. Trust your intuition.</strong></p>
   <p><a href="https://one-click-world.vercel.app"><strong>PLAY NOW ↗</strong></a></p>
+  <p><a href="README.md" lang="en">English</a> · <a href="README.es.md" lang="es">Español</a></p>
   <img src="public/gallery/social-preview.png" alt="1 Click World gallery artwork: an imagined coast, a map pin and the words See a place. Trust your instinct." width="100%" />
 </div>
 
