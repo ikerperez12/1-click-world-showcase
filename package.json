@@ -17,6 +17,7 @@
     "test:e2e": "playwright test",
     "capture:gallery": "node scripts/capture-gallery.mjs",
     "check:forbidden": "node scripts/check-public-content.mjs",
+    "check:links": "node scripts/check-links.mjs",
     "check": "npm run lint && npm run typecheck && npm test && npm run build && npm run check:forbidden"
   },
   "devDependencies": {
